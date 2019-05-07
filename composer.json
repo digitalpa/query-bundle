@@ -1,5 +1,5 @@
 {
-    "name": "studiomado/query-bundle",
+    "name": "digitalpa/query-bundle",
     "type": "symfony-bundle",
     "authors": [
         {
@@ -22,7 +22,7 @@
         "symfony/dependency-injection": ">=3.3",
         "symfony/config": ">=3.3",
         "symfony/http-kernel": ">=3.3",
-        "pagerfanta/pagerfanta": "^1.0",
+        "pagerfanta/pagerfanta": ">=1.0",
         "willdurand/hateoas": "2.10",
         "symfony/console": "~3.4.3",
         "symfony/debug": "~3.4.3",
